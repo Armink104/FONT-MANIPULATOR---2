@@ -1,0 +1,44 @@
+body
+{
+    background-image: url("GlItEr.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.heading
+{
+  font-size: 45px;
+  width: 100%;
+  margin: 0px;
+  box-shadow:5px 5px 5px grey;
+  font-family: 'Euphoria Script', cursive;
+}
+
+.note 
+{ 
+  font-size: 29px; 
+  color: black; 
+  font-family: 'Cookie', cursive;
+}
+
+
+.copy_right_footer 
+{
+  position: fixed;
+  color: white;
+  bottom: 0;
+  width: 100%;
+  background-color:rgb(234, 139, 255);
+  line-height: 3;
+  text-align: center;
+  font-family: 'Creepster', cursive;
+  font-size: 17;
+}
+
+canvas 
+{
+  border:5px solid #000000;
+  border-radius:20px;
+  box-shadow:5px 5px 5px grey;
+  background-color: #ffb5e8;
+}
